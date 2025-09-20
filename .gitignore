@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+.venv/
+env/
+.env
+
+# IDE and editor directories
+.vscode/
+.idea/
+*.swp
+
+# Notebook checkpoints
+.ipynb_checkpoints
+
+# Files to be ignored from the exercise
+data/
+models/
