@@ -47,20 +47,5 @@ My near- and mid-term goals are to:
 - Build meaningful **computer vision** projects that solve real problems.
 - Assemble end-to-end systems that combine retrieval, reasoning, and generation.
 
-## What I can do today
-
-- Clean, preprocess and analyze datasets
-- Implement and evaluate classic ML models
-- Build and train basic neural networks
-- Use common libraries to move an idea from prototype to a working demo
-
----
-
-If you’d like, I can:
-
-- Add detailed project pages with code links
-- Convert this into a portfolio README with badges and images
-- Help write short descriptions for each of the projects listed above
-
 Thanks for reading — I’ll keep this document updated as I learn and build more!
 
