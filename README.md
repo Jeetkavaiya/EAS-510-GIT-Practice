@@ -47,5 +47,5 @@ My near- and mid-term goals are to:
 - Build meaningful **computer vision** projects that solve real problems.
 - Assemble end-to-end systems that combine retrieval, reasoning, and generation.
 
-Thanks for reading — I’ll keep this document updated as I learn and build more!
+Thanks for reading
 
